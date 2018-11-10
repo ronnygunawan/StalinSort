@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StalinSort", "StalinSort\StalinSort.csproj", "{544ED793-8CA5-4FF3-8FA3-C4CCC6A7B092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StalinSort.Tests", "StalinSort.Tests\StalinSort.Tests.csproj", "{9CC2426F-5323-4B5B-B881-ED8AE23F8A2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{544ED793-8CA5-4FF3-8FA3-C4CCC6A7B092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544ED793-8CA5-4FF3-8FA3-C4CCC6A7B092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544ED793-8CA5-4FF3-8FA3-C4CCC6A7B092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544ED793-8CA5-4FF3-8FA3-C4CCC6A7B092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC2426F-5323-4B5B-B881-ED8AE23F8A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC2426F-5323-4B5B-B881-ED8AE23F8A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC2426F-5323-4B5B-B881-ED8AE23F8A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC2426F-5323-4B5B-B881-ED8AE23F8A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40240FA4-AE2D-4B3D-BFAB-0D4A6F907756}
+	EndGlobalSection
+EndGlobal
