@@ -1,0 +1,2 @@
+# StalinSort
+StalinSort IEnumerable extensions
