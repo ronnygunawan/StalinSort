@@ -10,3 +10,5 @@ This package provides two extension methods to `IEnumerable<T>`:
 IEnumerable<TElement> StalinSortBy<TElement, TKey>(Func<TElement, TKey> elementSelector);
 IEnumerable<TElement> StalinSortByDescending<TElement, TKey>(Func<TElement, TKey> elementSelector);
 ```
+
+[![NuGet](https://img.shields.io/nuget/v/StalinSort.svg)](https://www.nuget.org/packages/StalinSort/)
