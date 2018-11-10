@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>ronnygunawan</Authors>
+    <Company>ronnygunawan</Company>
+    <Product />
+    <Description>Single pass O(n) sort algorithm. You iterate down the list of elements checking if they're in order. Any element which is out of order is eliminated. At the end you have a sorted list.
+
+Don't use this in production.</Description>
+    <PackageProjectUrl>https://github.com/ronnygunawan/StalinSort</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ronnygunawan/StalinSort</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
